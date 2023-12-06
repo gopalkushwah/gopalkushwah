@@ -27,6 +27,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable and robust 
 - **Tools:**
   - Git
   - IntelliJ IDEA
+  - Eclipse
+  - NetBeans
   - Visual Studio Code
 
 ## 🌱 Current Learning Focus
